@@ -1,0 +1,29 @@
+[
+  {
+    "file": "assets/images/brand-logo-concept.png",
+    "title": "品牌 Logo 概念",
+    "original_filename": "ChatGPT Image 2026年9月20日 下午10_07_31.png",
+    "sha256": "4608688f197cc0f5e7ff8cd894ae00e9a6f0f626fc318f9c9c890fac3665e2bc",
+    "status": "AI-generated concept supplied by user; not final product artwork"
+  },
+  {
+    "file": "assets/images/four-pillar-visual.png",
+    "title": "四象限視覺",
+    "original_filename": "ChatGPT Image 2026年9月20日 下午10_07_20.png",
+    "sha256": "fdf3a8b3f4ad3f93393e637d5f1fb5ae4512ae2dbdc1dac761408872583c5179",
+    "status": "AI-generated concept supplied by user; not final product artwork"
+  },
+  {
+    "file": "assets/images/product-packaging-concept.png",
+    "title": "產品包裝概念",
+    "original_filename": "ChatGPT Image 2026年9月20日 下午10_07_06.png",
+    "sha256": "14672d37c06d13549f5d8ee67b38d7aaac4092fe51bffcc210bee24832c3b6a5",
+    "status": "AI-generated concept supplied by user; not final product artwork"
+  },
+  {
+    "file": "docs/trademark/trademark-application-v1.0-original.docx",
+    "original_filename": "酵蛋纖菌_商標申請文件_V1.0(2).docx",
+    "sha256": "062db78760f20020a28cae817e4573f8387d34a0215800bd38ec339548ff5c68",
+    "status": "Original preparation draft; see errata"
+  }
+]

@@ -1,0 +1,8 @@
+# Local and private files
+.DS_Store
+Thumbs.db
+~$*
+*.tmp
+.env
+.env.*
+private/
